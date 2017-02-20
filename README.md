@@ -1,0 +1,2 @@
+# Panels
+Menu, Toolbars, Panels
