@@ -12,7 +12,7 @@ div {
 }
 
 
-div:hover, div:selected {
+div:hover {
             transform: rotate(360deg);
 }
 
