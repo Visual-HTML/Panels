@@ -10,7 +10,6 @@ div {
    background-color: red; 
             
    transition: transform 3s;
-   
 }
 
 
@@ -19,6 +18,11 @@ div:hover {
    transform: rotate(360deg);
    -webkit-transform: rotate(360deg);
    
+   -webkit-user-select: none;
+   -khtml-user-select: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+   user-select: none;
 }
 
 
