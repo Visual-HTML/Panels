@@ -14,7 +14,6 @@ div {
 
 div:hover, div:selected {
             transform: rotate(360deg);
-            -webkit-transform: rotate(360deg);
 }
 
 
