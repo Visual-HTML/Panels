@@ -6,6 +6,7 @@ width: 50px; background-color: red; transition: transform 3s;
 }
 div:hover {
             transform: rotate(360deg);
+            -webkit-transform: rotate(360deg);
         }
 
 
