@@ -1,6 +1,7 @@
 
 
 div {
+   
    margin: 10px 10px 10px 10px; 
             
    height: 120px;
@@ -9,11 +10,15 @@ div {
    background-color: red; 
             
    transition: transform 3s;
+   
 }
 
 
 div:hover {
-            transform: rotate(360deg);
+   
+   transform: rotate(360deg);
+   -webkit-transform: rotate(360deg);
+   
 }
 
 
