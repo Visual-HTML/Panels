@@ -1,7 +1,7 @@
 
 window.onload = function(evt){
 
-   document.title = new Date().ToLocaleString();
+   document.title = new Date().toLocaleString();
 
 
 }
